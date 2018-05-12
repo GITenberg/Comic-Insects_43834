@@ -1,0 +1,32 @@
+_repo: Comic-Insects_43834
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Berry, Berry F.
+    gutenberg_agent_id: '42196'
+    url: http://www.gutenberg.org/2009/agents/42196
+covers:
+- cover_type: archival
+  image_path: 43834-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Reid, F. A. S. (Francis Andrew Spilsbury)
+    alias: Reid, Francis Andrew Spilsbury
+    gutenberg_agent_id: '42427'
+    url: http://www.gutenberg.org/2009/agents/42427
+description: ''
+gutenberg_issued: '2013-09-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '43834'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Insects -- Juvenile poetry'
+- !lcc 'PZ'
+tableOfContents: The caterpillar -- The moth -- The snail -- The bee -- The black-beetle
+  -- The spider
+title: Comic Insects
+url: http://www.gutenberg.org/ebooks/43834
