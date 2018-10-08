@@ -28,6 +28,7 @@ rights_url: http://creativecommons.org/about/pdm
 subjects:
 - !lcsh 'Insects -- Juvenile poetry'
 - !lcc 'PZ'
+- GITenberg
 tableOfContents: The caterpillar -- The moth -- The snail -- The bee -- The black-beetle
   -- The spider
 title: Comic Insects
